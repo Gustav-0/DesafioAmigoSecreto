@@ -6,7 +6,7 @@ Aplicativo que faz a brincadeira do amigo secreto.
 ## 🔨 Funcionalidades do projeto
 É possivel adicionar os nomes formando uma lista e logo depois clicando em sortear ele escolhe um amigo aleatório da lista.
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Funcionalidades
 
 As técnicas e tecnologias utilizadas pra isso são:
 
